@@ -9,15 +9,15 @@
         "rooms": [
             {
                 "imageUrl": "https://images.squarespace-cdn.com/content/v1/5d8e618d378eba6f771943aa/1603229250353-K3JZUVKIRFF9JGW4GECU/ke17ZwdGBToddI8pDm48kNBhxsR5AixTPaSt36FQjZRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIHEpb-MmdDNvFVgjmeoENIlexef176In2EgYPtI8R2-8KMshLAGzx4R3EDFOm1kBS/Bureaux%2BOuverts.jpg",
-                "name": ""
+                "name": "chambre1"
             },
             {
                 "imageUrl": "https://images.squarespace-cdn.com/content/v1/58d3aa32e4fcb51bf3a9b516/1557160312013-OM3P55G3SLU4OFGCRD8T/ke17ZwdGBToddI8pDm48kPTrHXgsMrSIMwe6YW3w1AZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k5fwC0WRNFJBIXiBeNI5fKTrY37saURwPBw8fO2esROAxn-RKSrlQamlL27g22X2A/organisateur+de+bureau.jpg",
-                "name": ""
+                "name": "chambre 2"
             },
             {
                 "imageUrl": "https://www.gautier.fr/sites/default/files/styles/produit/public/produits/variation/3777/bureau-l.jpg",
-                "name": ""
+                "name": "chambre 3"
             }
         ],
         "reviews": [
