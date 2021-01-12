@@ -1,5 +1,4 @@
 [
-  
     {
         "name": "Bureau 1",
         "price": 230,
@@ -54,6 +53,5 @@
                 "imageUrl": "https://img.icons8.com/all/500/room.png"
             }
         ]
-    }
-    
+    }  
 ]
