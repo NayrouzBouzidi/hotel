@@ -23,19 +23,19 @@
         "reviews": [
             {
                 "message": "Hi, really nice place!!",
-                "user": "Nani",
+                "user": "Ahmed",
                 "userImage": "https://www.dittolanding.org/templates/semantic/img/nan.jpg",
                 "rate": 4
             },
             {
                 "message": "Could be better :(",
-                "user": "Ellioto",
+                "user": "Asma",
                 "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
                 "rate": 3
             },
             {
                 "message": "Best place to stay :)",
-                "user": "Matti",
+                "user": "Ichrak",
                 "userImage": "https://image.ibb.co/gmbNQT/matthew.png",
                 "rate": 5
             }
@@ -56,44 +56,39 @@
         ]
     },
     {
-        "name": "hotel 3",
-        "address": "Funny street 12",
+        "name": "bureau 2",
+        "address": "Ghazela 2200",
         "price": 140,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imageUrl": "https://q-cf.bstatic.com/images/hotel/max1024x768/209/209735787.jpg",
+        "description": "La sous-location implique le paiement d’un prix, mais cette contrepartie financière peut aussi être donnée sous une autre forme. Ainsi, par exemple, le fait de loger une employée de ",
+        "imageUrl": "https://www.maisonapart.com/images/auto/640-480-c/20180821_163252_10-kavehome.jpg",
         "rooms": [
             {
-                "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
-                "name": "Room X"
+                "imageUrl": "https://www.futura-sciences.com/maison/comparatifs/wp-content/uploads/2020/05/acheter-fauteuil-de-bureau-300x300.jpg",
+                "name": "chambre 1"
             },
             {
-                "imageUrl": "https://ak.picdn.net/shutterstock/videos/5677895/thumb/1.jpg",
-                "name": "Room Y"
+                "imageUrl": "https://www.oburo.com/wp-content/uploads/2018/07/xcategories-liquidation.jpg.pagespeed.ic.ru87QRAbJM.jpg",
+                "name": "chambre 2"
             },
             {
-                "imageUrl": "https://www.ggrasia.com/wp-content/uploads/2015/05/JW-Marriot-hotel-room-Galaxy-Macau-Phase-2-e1432637852679.jpg",
-                "name": "Room Z"
+                "imageUrl": "https://www.mobiline-dz.com/images/collection-mobilier-de-bureau-2017/medely-home.jpg",
+                "name": "chambre 3"
             }
         ],
         "reviews": [
             {
                 "message": "Hi, really nice place!!",
-                "user": "Messi",
+                "user": "Salma",
                 "userImage": "https://image.flaticon.com/icons/png/512/805/805404.png",
                 "rate": 4
             },
             {
                 "message": "Could be better :(",
-                "user": "Neymar",
+                "user": "meryam",
                 "userImage": "https://cdn3.iconfinder.com/data/icons/diversity-avatars-vol-2/64/footballer-soccer-neymar-njr-psg-brazil-512.png",
                 "rate": 3
             },
-            {
-                "message": "Best place to stay :)",
-                "user": "Cristiano",
-                "userImage": "https://cdn4.iconfinder.com/data/icons/diversity-v2-0-volume-03/64/footballers-cristiano-ronaldo-512.png",
-                "rate": 5
-            }
+  
         ],
         "amenities": [
             {
