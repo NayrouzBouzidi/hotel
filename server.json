@@ -63,18 +63,7 @@
         "description": "La sous-location implique le paiement d’un prix, mais cette contrepartie financière peut aussi être donnée sous une autre forme. Ainsi, par exemple, le fait de loger une employée de ",
         "imageUrl": "https://www.maisonapart.com/images/auto/640-480-c/20180821_163252_10-kavehome.jpg",
         "rooms": [
-            {
-                "imageUrl": "https://www.futura-sciences.com/maison/comparatifs/wp-content/uploads/2020/05/acheter-fauteuil-de-bureau-300x300.jpg",
-                "name": "chambre 1"
-            },
-            {
-                "imageUrl": "https://www.oburo.com/wp-content/uploads/2018/07/xcategories-liquidation.jpg.pagespeed.ic.ru87QRAbJM.jpg",
-                "name": "chambre 2"
-            },
-            {
-                "imageUrl": "https://www.mobiline-dz.com/images/collection-mobilier-de-bureau-2017/medely-home.jpg",
-                "name": "chambre 3"
-            }
+            
         ],
    "reviews": [
             {
