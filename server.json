@@ -53,5 +53,60 @@
                 "imageUrl": "https://img.icons8.com/all/500/room.png"
             }
         ]
-    }  
+    } ,
+    {
+        "name": "bureau 2",
+        "address": "Ghazela 2200",
+        "price": 140,
+        "description": "La sous-location implique le paiement d’un prix, mais cette contrepartie financière peut aussi être donnée sous une autre forme. Ainsi, par exemple, le fait de loger une employée de ",
+        "imageUrl": "https://www.maisonapart.com/images/auto/640-480-c/20180821_163252_10-kavehome.jpg",
+        "rooms": [
+            {
+                "imageUrl": "https://www.futura-sciences.com/maison/comparatifs/wp-content/uploads/2020/05/acheter-fauteuil-de-bureau-300x300.jpg",
+                "name": "chambre 1"
+            },
+            {
+                "imageUrl": "https://www.oburo.com/wp-content/uploads/2018/07/xcategories-liquidation.jpg.pagespeed.ic.ru87QRAbJM.jpg",
+                "name": "chambre 2"
+            },
+            {
+                "imageUrl": "https://www.mobiline-dz.com/images/collection-mobilier-de-bureau-2017/medely-home.jpg",
+                "name": "chambre 3"
+            }
+        ],
+   "reviews": [
+            {
+                "message": "Hi, really nice place!!",
+                "user": "Ahmed",
+                "userImage": "https://www.dittolanding.org/templates/semantic/img/nan.jpg",
+                "rate": 4
+            },
+            {
+                "message": "Could be better :(",
+                "user": "Asma",
+                "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
+                "rate": 3
+            },
+            {
+                "message": "Best place to stay :)",
+                "user": "Ichrak",
+                "userImage": "https://image.ibb.co/gmbNQT/matthew.png",
+                "rate": 5
+            }
+        ],
+        "amenities": [
+            {
+                "name": "WiFi",
+                "imageUrl": "https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color/254000/09-512.png"
+            },
+            {
+                "name": "Parking",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Parking_icon.svg/1200px-Parking_icon.svg.png"
+            },
+            {
+                "name": "Beach view",
+                "imageUrl": "https://cdn4.iconfinder.com/data/icons/summer-and-the-beach-in-filled-outline-style/512/Summer_and_The_Beach_in_Filled_Outline_Style-16-512.png"
+            }
+        ]
+    }
 ]
